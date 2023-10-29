@@ -4,4 +4,4 @@
 #### `this is some code in javascript : function displaysomething(){ connsole.log("my name is cherie deville!")}`
 
 
-! [this is some supporting alt text for an image](https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![this is some supporting alt text for an image](https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
