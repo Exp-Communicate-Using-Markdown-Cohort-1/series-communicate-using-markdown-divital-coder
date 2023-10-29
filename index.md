@@ -10,3 +10,34 @@
 #### so for the sake of adding images simply use an exclamation mark followed by square brackets, and then round bracktes. The square brackets will hold the relevant alt-text for your image whereas your round-brackets will hold the img-src.
 
 ![this is some supporting alt text for an image](https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+
+# now its time for adding a code block to your file :
+```
+let numsArray:numner[] = [];
+for(let loopnnum:number = 0; loopnum < 20; loopnum++){
+numsArray.push(loopnum+1);
+}
+
+
+for(let num of numsArray){
+
+if((num % 5 === 0) && (num % 3 === 0)){
+console.log("FOOBAR");
+}
+else if(num % 5 ===0){
+console.log("Bar");
+}
+else if(num % 3 === 0){
+console.log("Foo");
+}
+
+}
+```
+
+
+## its time for task-lists:
+- [ ] `make something for your upcoming permahacks blockchain hackathon using arweave`
+- [ ] `complete your microsoft learn cloud skills challenge for your microsoft learn student ambassadors program`
+- [x] `register and attain github student developer pack for added student benefits`
+- [x] `finish building a proof of concpet project within the svelte framework using typescript, so that u understand the gist of the framework and can getstarted usinng the framework for building production level applications fast. Current project in making "sticks-descend"`  
